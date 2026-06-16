@@ -41,6 +41,8 @@ app.py
 
 5. Deploy.
 
+Streamlit Community Cloud should use the root `requirements.txt` file for Python dependencies.
+
 No secrets are required for the current version.
 
 ## Data
