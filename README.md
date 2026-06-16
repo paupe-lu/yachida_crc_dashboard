@@ -26,8 +26,9 @@ streamlit run app.py
 
 The app expects `data/yachida_simplified.xlsx` by default. You can also upload another compatible Excel file from the sidebar.
 
-The bundled workbook is cached locally under `data/.cache/` after the first run to make later launches faster.
+The bundled workbook is cached locally under `data/.cache/` after the first run to make later launches faster
 
+<<<<<<< HEAD
 ## Deploy On Streamlit Community Cloud
 
 1. Push this folder to a public GitHub repository.
@@ -44,6 +45,8 @@ app.py
 Streamlit Community Cloud should use the root `requirements.txt` file for Python dependencies.
 
 No secrets are required for the current version.
+=======
+>>>>>>> e398d6d73004a264feda64d8bf3c25bc4641ba63
 
 ## Data
 
